@@ -22,6 +22,10 @@ available at the [TLA+ project homepage][tla]
 The easiest way is to download the [toolbox][toolbox] environment and use that,
 but you can also just download the TLA+ checker if you want.
 
+### License
+
+Apache 2.0, see LICENSE.txt for details.
+
 
 [tla]: http://research.microsoft.com/en-us/um/people/lamport/tla/tla.html
 [toolbox]: http://research.microsoft.com/en-us/um/people/lamport/tla/toolbox.html
